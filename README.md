@@ -1,1 +1,2 @@
-# pokemon123
+# PokeStats
+exploring Pokemon stats from all angles

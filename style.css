@@ -1,0 +1,41 @@
+﻿
+
+.navbar-custom{
+	background-color: MidnightBlue;
+}
+
+.justify-content-center{
+  display: flex;
+  margin-left: 25%;
+}
+.nav-link{
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 10px;
+  color: #ffcc33;
+  font-style: impact;
+  -webkit-text-stroke: 1px #0052cc;
+}
+
+.card-body{
+  height: 200px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  color: #111111;
+  border: none;
+  border-color: white; 
+}
+
+.card-img-top{
+  height: 350px;
+}
+
+.card-body-img{
+  height: 180px;
+
+}
+
+script{
+  text-align: center
+}
